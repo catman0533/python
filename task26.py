@@ -6,6 +6,7 @@
 
 
 a = int(input('Введите число: '))
+b = int(input("Введите степень числа:"))
 def ApowB(a, b):
     if b == 0:
         return 1
